@@ -19,7 +19,7 @@ Hi, my name is **Saviour Duru** , a Graduate of Statistics with a background in 
 | Catrgory        | Tools |
 |-----------------|-------|
 | **Programming** | Python (pandas, numpy, matplotlib, scikit-learn) |
-| **Database**    | SQL, PostgreSQL |
+| **Database**    | BigQuery, SQL, PostgreSQL |
 | **Visualization**| Power BI, Excel, Looker Studio |
 | **Version Control** | Git & GitHub |
 | **Other Interests** | Artificial Intelligence, Data Storytelling |
