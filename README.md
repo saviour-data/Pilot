@@ -16,7 +16,7 @@ Hi, my name is **Saviour Duru** , a Graduate of Statistics with a background in 
 ---
 
 ## ⚙ Tech & Tools I Use
-| Catrgory        | Tools |
+| Category        | Tools |
 |-----------------|-------|
 | **Programming** | Python (pandas, numpy, matplotlib, scikit-learn) |
 | **Database**    | BigQuery, SQL, PostgreSQL |
@@ -40,4 +40,4 @@ Hi, my name is **Saviour Duru** , a Graduate of Statistics with a background in 
 
 ---
 
-✨ *"Every dataset has a story, I'm here to help tell it."*
+ *"Every dataset has a story, I'm here to help tell it."*
